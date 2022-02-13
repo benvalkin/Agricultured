@@ -1,7 +1,13 @@
 {
   "itemGroup.agricultured": "Agricultured",
   "item.agricultured.chilipepper": "Chili Pepper",
-  "item.agricultured.chilipepper_seeds": "Chili Pepper Seeds"
+  "item.agricultured.greenpepper": "Green Pepper",
+  "item.agricultured.strawberry": "StrawBerry",
+  "item.agricultured.lettuce": "Lettuce",
+  "item.agricultured.chilipepper_seeds": "Chili Pepper Seeds",
+  "item.agricultured.greenpepper_seeds": "Green Pepper Seeds",
+  "item.agricultured.strawberry_seeds": "StrawBerry Seeds",
+  "item.agricultured.lettuce_seeds": "Lettuce Seeds"
 }
 
 
