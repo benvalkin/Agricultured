@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "agricultured:block/chilipepper_crop_stage1"
+  }
+}

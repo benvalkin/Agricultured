@@ -1,7 +1,14 @@
 {
   "itemGroup.agricultured": "Agricultured",
+
   "item.agricultured.chilipepper": "Chili Pepper",
-  "item.agricultured.chilipepper_seeds": "Chili Pepper Seeds"
+  "item.agricultured.chilipepper_seeds": "Chili Pepper Seeds",
+
+  "item.agricultured.bellpepper": "Bell Pepper",
+  "item.agricultured.bellpepper_seeds": "Bell Pepper Seeds",
+
+  "item.agricultured.tomato": "Tomato",
+  "item.agricultured.tomato_seeds": "Tomato Seeds"
 }
 
 
