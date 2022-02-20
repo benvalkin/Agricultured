@@ -19,6 +19,10 @@ public class BlockRegister
     public static Block ChiliPepper_Crop;
     public static Block BellPepper_Crop;
     public static Block Tomato_Crop;
+    public static Block Cucumber_Crop;
+    public static Block Radish_Crop;
+    public static Block Onion_Crop;
+    public static Block Eggplant_Crop;
 
     public static ArrayList<Block> LeafyCrops = new ArrayList<>();
 
@@ -27,10 +31,21 @@ public class BlockRegister
         ChiliPepper_Crop = register("chilipepper_crop", new AgriCropBlock(getCropProperties()));
         BellPepper_Crop = register("bellpepper_crop", new AgriCropBlock(getCropProperties()));
         Tomato_Crop = register("tomato_crop", new AgriCropBlock(getCropProperties()));
+        Cucumber_Crop = register("cucumber_crop", new AgriCropBlock(getCropProperties()));
+        Radish_Crop = register("radish_crop", new AgriCropBlock(getCropProperties()));
+        Onion_Crop = register("onion_crop", new AgriCropBlock(getCropProperties()));
+        Eggplant_Crop = register("eggplant", new AgriCropBlock(getCropProperties()));
+
+
 
         LeafyCrops.add(ChiliPepper_Crop);
         LeafyCrops.add(BellPepper_Crop);
         LeafyCrops.add(Tomato_Crop);
+        LeafyCrops.add(Cucumber_Crop);
+        LeafyCrops.add(Radish_Crop);
+        LeafyCrops.add(Onion_Crop);
+        LeafyCrops.add(Eggplant_Crop);
+
     }
 
     private static BlockBehaviour.Properties getCropProperties() {

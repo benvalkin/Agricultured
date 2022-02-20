@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "agricultured:block/onion_crop_stage0"
+    },
+    "age=1": {
+      "model": "agricultured:block/onion_crop_stage1"
+    },
+    "age=2": {
+      "model": "agricultured:block/onion_crop_stage1"
+    },
+    "age=3": {
+      "model": "agricultured:block/onion_crop_stage2"
+    },
+    "age=4": {
+      "model": "agricultured:block/onion_crop_stage2"
+    },
+    "age=5": {
+      "model": "agricultured:block/onion_crop_stage3"
+    },
+    "age=6": {
+      "model": "agricultured:block/onion_crop_stage4"
+    },
+    "age=7": {
+      "model": "agricultured:block/onion_crop_stage4"
+    }
+  }
+}

@@ -13,7 +13,18 @@
   "item.agricultured.bellpepper_seeds": "Bell Pepper Seeds",
 
   "item.agricultured.tomato": "Tomato",
-  "item.agricultured.tomato_seeds": "Tomato Seeds"
+  "item.agricultured.tomato_seeds": "Tomato Seeds",
+
+  "item.agricultured.cucumber": "Cucumber",
+  "item.agricultured.cucumber_seeds": "Cucumber Seeds",
+
+  "item.agricultured.radish": "Radish",
+  "item.agricultured.radish_seeds": "Radish Seeds",
+
+  "item.agricultured.onion": "Onion",
+  "item.agricultured.onion_seeds": "Onion Seeds"
+
+
 }
 
 
